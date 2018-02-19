@@ -5,7 +5,7 @@ ProxerDownloader by Akarui Kage
 ----------------------------------------------------------
 Hello there!
 In version 2.1.0, I fixed the proxy issue. You can now input
-a proxy, tah will be saved and works flawlessly.
+a proxy, that will be saved and work flawlessly.
 
 !ATTENTION!
 JAVA IS NEEDED IN ORDER TO RUN THIS PROGRAMM!
